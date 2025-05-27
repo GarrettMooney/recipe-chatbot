@@ -71,4 +71,3 @@ def get_agent_response(messages: List[Dict[str, str]]) -> List[Dict[str, str]]: 
         {"role": "assistant", "content": assistant_reply_content}
     ]
     return updated_messages
-

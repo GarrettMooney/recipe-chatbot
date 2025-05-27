@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "fastapi>=0.115.12",
+    "google-cloud-aiplatform>=1.94.0",
     "httpx>=0.28.1",
     "litellm>=1.71.1",
     "pandas>=2.2.3",

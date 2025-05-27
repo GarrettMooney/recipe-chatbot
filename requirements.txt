@@ -1,7 +1,8 @@
 fastapi
-uvicorn
-litellm
-python-dotenv
+google-cloud-aiplatform
 httpx
-rich
+litellm
 pandas
+python-dotenv
+rich
+uvicorn
