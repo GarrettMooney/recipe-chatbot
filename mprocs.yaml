@@ -1,0 +1,5 @@
+procs:
+  server:
+    shell: >-
+      uv run --with uvicorn uvicorn backend.main:app --reload
+    stop: SIGTERM
